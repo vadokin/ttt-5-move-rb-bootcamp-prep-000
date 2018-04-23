@@ -12,5 +12,5 @@ end
 
 def move(arr, ind, val="X")
   arr[ind] = val
-  board
+  arr
 end
