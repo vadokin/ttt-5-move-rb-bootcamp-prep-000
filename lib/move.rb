@@ -13,4 +13,5 @@ end
 
 def move(arr, ind, val)
   arr[ind] = val
+  arr
 end
