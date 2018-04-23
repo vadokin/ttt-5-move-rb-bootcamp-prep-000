@@ -12,5 +12,5 @@ def input_to_index(user_input)
 end
 
 def move(arr, ind, val)
-  
+  arr[ind]
 end
