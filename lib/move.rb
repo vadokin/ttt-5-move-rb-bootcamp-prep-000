@@ -10,7 +10,7 @@ def input_to_index(user_input)
   user_input.to_i - 1
 end
 
-def move(arr, ind, val="X")
+def move(arr, ind, val)
   arr[ind] = val
   board
 end
